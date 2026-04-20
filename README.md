@@ -145,10 +145,6 @@ Possible future improvements:
 - add optional per-group suspension logic
 - improve compatibility notes for different WHMCS versions
 
-## Community post
-
-A ready-to-paste community post draft is included in `COMMUNITY-POST.md`.
-
 ## License
 
 MIT
